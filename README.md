@@ -3,3 +3,5 @@ Framework para criação de jogos em Python utilizado pelos alunos de Ciência d
 
 Mais informações e documentação detalhada no site do projeto:
 http://www2.ic.uff.br/pplay/
+
+Fork inicial: 20-09-2019
